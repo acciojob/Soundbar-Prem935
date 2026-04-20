@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+body{
+	background: blueviolet;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap:
+}
+#buttons{
+	width:100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.btn{
+	padding: 0.5rem 1rem;
+	margin: 8px;
+	background: darkviolet;
+	border-radius: 5px;
+}
+.stop{
+	padding: 0.5rem 1rem;
+	margin: 8px;
+	background: darkviolet;
+	border-radius: 5px;
+}
